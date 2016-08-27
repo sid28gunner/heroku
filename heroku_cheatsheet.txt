@@ -1,0 +1,7 @@
+1.Create the app repository in Github.
+2.Create an account in heroku and download heroku toolbelt for windows and install it.
+3.Open cmd and migrate to the master git repo in your desktop
+  /app> heroku login
+  /app> heroku create
+  /app> git push heroku master
+  /app>heroku open
